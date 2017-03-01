@@ -1,0 +1,35 @@
+busca(complexidade): (ordenacao(mergesort,bubblesort(complexidade)))
+
+busca_intervalo(basico,selecao):
+ basico
+ complexidade
+ particionamento
+ selecao
+
+contar:
+ (arrays, 1)
+ (basico, 1)
+ (bottomup, 1)
+ (bubblesort, 1)
+ (buscabinaria, 1)
+ (complexidade, 2)
+ (digital, 1)
+ (duplas, 1)
+ (estruturas, 1)
+ (fila, 1)
+ (funcoes, 1)
+ (hashing, 1)
+ (lineares, 1)
+ (mergesort, 1)
+ (ordenacao, 1)
+ (particionamento, 1)
+ (patricia, 1)
+ (pesquisa, 1)
+ (pilha, 1)
+ (quicksort, 2)
+ (radix, 1)
+ (recursao, 1)
+ (selecao, 1)
+ (selection, 1)
+ (topdown, 1)
+ (tries, 1)

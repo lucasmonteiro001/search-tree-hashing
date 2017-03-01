@@ -1,0 +1,19 @@
+busca_intervalo(motivacao,contribuicoes):
+ motivacao
+ material
+ contribuicoes
+
+buscar_chaves_paginas(10,12):
+ agrupamento
+ algoritmos
+ cuda
+ escolha
+ extracao
+ fundamentacao
+ gpu
+ hierarquia
+ k
+ keyframes
+ kmeans
+
+contar_impares: 16

@@ -1,0 +1,32 @@
+estruturas, 4, 81
+ arrays, 283, 284
+ fila, 283, 284
+ pilha, 300
+ordenacao, 250, 340, 483
+ bubblesort, 266
+  complexidade, 388
+ mergesort, 206, 335, 359, 436
+  bottomup, 348
+  topdown, 341, 342, 343, 344, 345
+ quicksort, 118, 305
+  basico, 409
+  complexidade, 455
+  particionamento, 326
+  selecao, 327, 328
+pesquisa, 53, 54, 55
+ hashing, 595, 597
+  lineares, 697
+  funcoes, 611
+  duplas, 595, 600
+ radix, 403
+  digital, 431, 433
+  tries, 596
+  patricia, 623, 624
+recursao, 187, 188, 189, 248
+ buscabinaria, 498
+ quicksort, 321
+ selection, 330
+
+busca complexidade
+busca_intervalo basico selecao
+contar

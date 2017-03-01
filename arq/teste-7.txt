@@ -1,0 +1,32 @@
+introducao, 2, 3, 4, 5, 6
+ motivacao, 4
+ objetivo, 5
+ restricoes, 5
+ material, 5
+ contribuicoes, 6
+fundamentacao, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+ segmentacao, 7
+ caracteristicas, 8
+  extracao, 8
+  histograma, 8
+   cor, 8
+ eliminacao, 9
+  quadros, 9
+   inexpressivos, 9
+ agrupamento, 10, 11
+  algoritmos, 10
+   kmeans, 11
+    escolha, 11
+     k, 11
+ keyframes, 12
+  extracao, 12
+ gpu, 12, 13, 14, 15, 16
+  cuda, 12
+   hierarquia, 12
+    memoria, 13
+     threads, 13
+      grupos, 14
+
+busca_intervalo motivacao contribuicoes
+buscar_chaves_paginas 10 12
+contar_impares

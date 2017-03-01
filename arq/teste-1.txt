@@ -1,0 +1,37 @@
+arvores, 126, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 260, 261, 262, 264
+ altura, 58, 176, 186
+ avl, 215
+ b, 181, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 264
+  binarias, 181
+  definicao, 241
+  overflow, 261
+ balanceadas, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 260, 261, 262
+ binarias, 175, 226
+  completas, 126, 566
+  pesquisa, 54, 176, 584
+  prefixo, 375, 592
+ definicao, 175
+ patricia, 191, 192, 193
+ randomicas, 180, 260
+ sbb, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193
+  definicao, 181
+hashing, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214
+ duplo, 220
+ enderecamento, 199, 200, 201, 202, 203
+ transformacao, 197, 198
+  perfeita, 203
+  minima, 203
+  preservada, 203, 204
+ linear, 199
+  agrupamento, 201
+  clustering, 201
+ listas, 198, 199
+indice, 322
+ arquivo, 221, 322
+  ocorrencias, 322
+  vocabulario, 322
+ arranjo, 322
+ patricia, 322
+ remissivo, 220
+
+contar_impares
